@@ -11,22 +11,6 @@ This project analyzes the correlation between **Sampling Rate**, **Data Entropy*
 
 ---
 
-## 🔬 Core Experiments
-
-### 1. Decimation & Sampling
-- Systematically reducing the data resolution (Sampling Rate) to observe changes in data structure.
-- Analyzing the loss of signal characteristics through the lens of information theory.
-
-### 2. USAD Model Training
-- Utilizing the **UnSupervised Anomaly Detection (USAD)** framework (Encoder-Decoder based Adversarial Training).
-- Fine-tuning models across different decimation levels to benchmark performance.
-
-### 3. Correlation Analysis
-- Benchmarking **F1-Score** vs. **Entropy of latent features**.
-- Investigating how Latent Space features represent the complexity of the original signal.
-
----
-
 ## 🛠 Tech Stack
 - **Deep Learning**: PyTorch
 - **Algorithm**: USAD (anomaly detection model)
