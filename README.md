@@ -22,7 +22,7 @@ This project analyzes the correlation between **Sampling Rate**, **Data Entropy*
 - Fine-tuning models across different decimation levels to benchmark performance.
 
 ### 3. Correlation Analysis
-- Benchmarking **F1-Score** vs. **Processing Time**.
+- Benchmarking **F1-Score** vs. **Entropy of latent features**.
 - Investigating how Latent Space features represent the complexity of the original signal.
 
 ---
