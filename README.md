@@ -29,7 +29,7 @@ This project analyzes the correlation between **Sampling Rate**, **Data Entropy*
 
 ## 🛠 Tech Stack
 - **Deep Learning**: PyTorch
-- **Algorithm**: USAD (UnSupervised Anomaly Detection)
+- **Algorithm**: USAD (anomaly detection model)
 - **Data Analysis**: Pandas, NumPy, Scikit-learn
 - **Visualization**: Matplotlib, Seaborn
 
